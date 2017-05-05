@@ -1,5 +1,5 @@
 # CodingExercise
-Note the two objects defined 'Person.cs' and the enum for 'Gender'. There is also a service mocked up to serv up data called PerService.cs.
+Note the two objects defined 'Person.cs' and the enum for 'Gender'. There is also a service mocked up to serv up data called PerService.cs. User the ValuesController for all api calls.
 
 1. Get the app to run. :)
 
