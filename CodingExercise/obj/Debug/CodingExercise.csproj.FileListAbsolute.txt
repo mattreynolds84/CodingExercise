@@ -70,3 +70,6 @@ c:\users\matthew.reynolds\documents\visual studio 2017\Projects\CodingExercise\C
 c:\users\matthew.reynolds\documents\visual studio 2017\Projects\CodingExercise\CodingExercise\bin\Microsoft.AI.Web.xml
 c:\users\matthew.reynolds\documents\visual studio 2017\Projects\CodingExercise\CodingExercise\obj\Debug\CodingExercise.dll
 c:\users\matthew.reynolds\documents\visual studio 2017\Projects\CodingExercise\CodingExercise\obj\Debug\CodingExercise.pdb
+C:\Users\matthew.reynolds\Documents\GitHub\CodingExercise\CodingExercise\obj\Debug\CodingExercise.csprojResolveAssemblyReference.cache
+C:\Users\matthew.reynolds\Documents\GitHub\CodingExercise\CodingExercise\obj\Debug\CodingExercise.dll
+C:\Users\matthew.reynolds\Documents\GitHub\CodingExercise\CodingExercise\obj\Debug\CodingExercise.pdb
