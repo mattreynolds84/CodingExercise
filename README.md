@@ -1,5 +1,9 @@
 # CodingExercise
+<<<<<<< HEAD
 Note the two objects defined 'Person.cs' and the enum for 'Gender'. There is also a service mocked up to serv up data called PersonService.cs. All api calls should go through the ValuesController.
+=======
+Note the two objects defined 'Person.cs' and the enum for 'Gender'. There is also a service mocked up to serv up data called PersonService.cs. User the ValuesController for all api calls.
+>>>>>>> origin/master
 
 1. Get the app to run. :)
 
