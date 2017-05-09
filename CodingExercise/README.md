@@ -11,6 +11,4 @@ Note the two objects defined 'Person.cs' and the enum for 'Gender'. There is als
   B. If the Id property is an even number the gender type should be 'Female'.
   C. If the Id property is an odd number the gender type should be 'Male'.  
 
-4. Use the new extention method to set the gender in the PersonService.cs.
-
 4. Create an api call that returns only persons who are either the age of 10 or at least 20 by adding a new service call to the PersonService.
