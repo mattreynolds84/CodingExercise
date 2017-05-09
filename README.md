@@ -1,5 +1,5 @@
 # CodingExercise
-Note the two objects defined 'Person.cs' and the enum for 'Gender'. There is also a service mocked up to serv up data called PerService.cs.
+Note the two objects defined 'Person.cs' and the enum for 'Gender'. There is also a service mocked up to serv up data called PersonService.cs. All api calls should go through the ValuesController.
 
 1. Get the app to run. :)
 
@@ -10,4 +10,4 @@ Note the two objects defined 'Person.cs' and the enum for 'Gender'. There is als
   
 3. Ensure that the GetAllPeople() method returns only 20 results and at least one result has the gender type 'Unknown'. 
 
-4. Create an api call that returns only persons with a female gender by adding logic to our FemaleOnly attribute filter
+4. Create an api call that returns only persons who are either the age of 10 or at least 20 by adding a new service call to the PersonService.
